@@ -1,0 +1,6 @@
+{
+  "name": "VitalStep",
+  "description": "A premium health and fitness metrics tracker that monitors physical activity, restorative sleep, and wellness trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
